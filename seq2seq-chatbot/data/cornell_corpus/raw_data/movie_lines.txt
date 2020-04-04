@@ -1,0 +1,94 @@
+L1 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi there.
+L2 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ hi, can i help u?
+L3 +++$+++ u1 +++$+++ m0 +++$+++ BIANCA +++$+++ Good morning! I need to look for a book.
+L4 +++$+++ u1 +++$+++ m0 +++$+++ BIANCA +++$+++ Morning, what type of book u want?
+L5 +++$+++ u2 +++$+++ m0 +++$+++ BIANCA +++$+++ Good afternoon!
+L6 +++$+++ u2 +++$+++ m0 +++$+++ BIANCA +++$+++ hi, may i help u?
+L7 +++$+++ u3 +++$+++ m0 +++$+++ BIANCA +++$+++ hello, nice to meet u!
+L8 +++$+++ u3 +++$+++ m0 +++$+++ BIANCA +++$+++ yes, welcome to u, how can i help u?
+L9 +++$+++ u4 +++$+++ m0 +++$+++ BIANCA +++$+++ bye.
+L10 +++$+++ u4 +++$+++ m0 +++$+++ BIANCA +++$+++ bye, see u later.
+L11 +++$+++ u5 +++$+++ m0 +++$+++ BIANCA +++$+++ thanks, good bye.
+L12 +++$+++ u5 +++$+++ m0 +++$+++ BIANCA +++$+++ you are welcome,bye.
+L13 +++$+++ u6 +++$+++ m0 +++$+++ BIANCA +++$+++ thank you, you are nice.
+L14 +++$+++ u6 +++$+++ m0 +++$+++ BIANCA +++$+++ u are welcome, have a nice day.
+L15 +++$+++ u7 +++$+++ m0 +++$+++ BIANCA +++$+++ thank a lot. See u later.
+L16 +++$+++ u7 +++$+++ m0 +++$+++ BIANCA +++$+++ welcome.Hope see u soon.
+L17 +++$+++ u8 +++$+++ m0 +++$+++ BIANCA +++$+++ bye bye.
+L18 +++$+++ u8 +++$+++ m0 +++$+++ BIANCA +++$+++ bye. See u again.
+L19 +++$+++ u9 +++$+++ m0 +++$+++ BIANCA +++$+++ Thanks, good bye.
+L20 +++$+++ u9 +++$+++ m0 +++$+++ BIANCA +++$+++ bye bye. Have a good day.
+L21 +++$+++ u10 +++$+++ m0 +++$+++ BIANCA +++$+++ hi man, i want to find a book in games. can u help me?
+L22 +++$+++ u10 +++$+++ m0 +++$+++ BIANCA +++$+++ Okay! it is in those bookshelves.
+L23 +++$+++ u10 +++$+++ m0 +++$+++ BIANCA +++$+++ uhm, i can not find my book. can u help me?
+L24 +++$+++ u10 +++$+++ m0 +++$+++ BIANCA +++$+++ Yes, of course. what kind of book u are finding?
+L25 +++$+++ u10 +++$+++ m0 +++$+++ BIANCA +++$+++ i do not remember its name. For example: Perfectly Logical!
+L26 +++$+++ u10 +++$+++ m0 +++$+++ BIANCA +++$+++ Let me check in our system.
+L27 +++$+++ u10 +++$+++ m0 +++$+++ BIANCA +++$+++ Oh thanks, how about my book?
+L28 +++$+++ u10 +++$+++ m0 +++$+++ BIANCA +++$+++ uhm, it is in stock. we have only one.
+L29 +++$+++ u10 +++$+++ m0 +++$+++ BIANCA +++$+++ oh, how much is it?
+L30 +++$+++ u10 +++$+++ m0 +++$+++ BIANCA +++$+++ 12.99$ in regularly. But now, sale price is 8.13$
+L31 +++$+++ u10 +++$+++ m0 +++$+++ BIANCA +++$+++ yeh, here your money.
+L32 +++$+++ u10 +++$+++ m0 +++$+++ BIANCA +++$+++ tks. See u soon. Hope u have nice experience.
+L33 +++$+++ u11 +++$+++ m0 +++$+++ BIANCA +++$+++ Hey, you have book of Rsadler?
+L34 +++$+++ u11 +++$+++ m0 +++$+++ BIANCA +++$+++ wait a minute. I will check for u.
+L35 +++$+++ u11 +++$+++ m0 +++$+++ BIANCA +++$+++ So you have?
+L36 +++$+++ u11 +++$+++ m0 +++$+++ BIANCA +++$+++ oh, we have. can u give me book`s name?
+L37 +++$+++ u11 +++$+++ m0 +++$+++ BIANCA +++$+++ the name so long. check for me: challenging fun brain...
+L38 +++$+++ u11 +++$+++ m0 +++$+++ BIANCA +++$+++ wait a minute. u mean it is challenging Fun Brain Teasers and Logic Puzzles
+L39 +++$+++ u11 +++$+++ m0 +++$+++ BIANCA +++$+++ oh yes, what is the price of the book?
+L40 +++$+++ u11 +++$+++ m0 +++$+++ BIANCA +++$+++ Hmm, after sale, it is 8.13$
+L41 +++$+++ u12 +++$+++ m0 +++$+++ BIANCA +++$+++ Give me 2 of them.
+L42 +++$+++ u12 +++$+++ m0 +++$+++ BIANCA +++$+++ Ok, here u are.
+L43 +++$+++ u12 +++$+++ m0 +++$+++ BIANCA +++$+++ Payment help me.
+L44 +++$+++ u12 +++$+++ m0 +++$+++ BIANCA +++$+++ ok, go to the counter and she will help u.
+L45 +++$+++ u13 +++$+++ m0 +++$+++ BIANCA +++$+++ hey, check for me rank of the book Perfectly Logical.
+L46 +++$+++ u13 +++$+++ m0 +++$+++ BIANCA +++$+++ ok, it is 23.
+L47 +++$+++ u13 +++$+++ m0 +++$+++ BIANCA +++$+++ Is it in stock?
+L48 +++$+++ u13 +++$+++ m0 +++$+++ BIANCA +++$+++ Sorry,in stock for what?
+L49 +++$+++ u13 +++$+++ m0 +++$+++ BIANCA +++$+++ stock for Perfectly Logical.
+L50 +++$+++ u13 +++$+++ m0 +++$+++ BIANCA +++$+++ Yeh, Perfectly Logical is in stock.
+L51 +++$+++ u14 +++$+++ m0 +++$+++ BIANCA +++$+++ can u give me availability status of Challenging Fun Brain Teasers and Logic Puzzles?
+L52 +++$+++ u14 +++$+++ m0 +++$+++ BIANCA +++$+++ Yes,Of course. take me a look.
+L53 +++$+++ u15 +++$+++ m0 +++$+++ BIANCA +++$+++ So, how about its status?
+L54 +++$+++ u15 +++$+++ m0 +++$+++ BIANCA +++$+++ which book do u want to find its status?
+L55 +++$+++ u15 +++$+++ m0 +++$+++ BIANCA +++$+++ Challenging Fun Brain Teasers and Logical Puzzles.
+L56 +++$+++ u15 +++$+++ m0 +++$+++ BIANCA +++$+++ it is in available.
+L57 +++$+++ u16 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi man, can u help me?
+L58 +++$+++ u16 +++$+++ m0 +++$+++ BIANCA +++$+++ oh, iam sr. can u wait in line? it is crowded.
+L59 +++$+++ u16 +++$+++ m0 +++$+++ BIANCA +++$+++ Ok, I will to my turn.
+L60 +++$+++ u16 +++$+++ m0 +++$+++ BIANCA +++$+++ So, who is the author of Perfectly logical book?
+L61 +++$+++ u16 +++$+++ m0 +++$+++ BIANCA +++$+++ It is Rsadler.
+L62 +++$+++ u17 +++$+++ m0 +++$+++ BIANCA +++$+++ How much is it?
+L63 +++$+++ u17 +++$+++ m0 +++$+++ BIANCA +++$+++ The cost for what?
+L64 +++$+++ u17 +++$+++ m0 +++$+++ BIANCA +++$+++ Cost for Perfectly Logical book.
+L65 +++$+++ u17 +++$+++ m0 +++$+++ BIANCA +++$+++ Just 8.13$ for sale.
+L66 +++$+++ u17 +++$+++ m0 +++$+++ BIANCA +++$+++ Before sale, how will it cost me?
+L67 +++$+++ u17 +++$+++ m0 +++$+++ BIANCA +++$+++ u mean the Perfectly Logical book?
+L68 +++$+++ u17 +++$+++ m0 +++$+++ BIANCA +++$+++ Yes, it is.
+L69 +++$+++ u17 +++$+++ m0 +++$+++ BIANCA +++$+++ 12.99$ in regular price.
+L70 +++$+++ u18 +++$+++ m0 +++$+++ BIANCA +++$+++ What is your name?
+L71 +++$+++ u18 +++$+++ m0 +++$+++ BIANCA +++$+++ hi, iam Bee. Nice to meet u.
+L72 +++$+++ u19 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi, your name?
+L73 +++$+++ u19 +++$+++ m0 +++$+++ BIANCA +++$+++ My name is Bee. Welcome u go to my book store.
+L74 +++$+++ u20 +++$+++ m0 +++$+++ BIANCA +++$+++ Hi, u are bee?
+L75 +++$+++ u20 +++$+++ m0 +++$+++ BIANCA +++$+++ Yeah, Bee is my name. Can I help u?
+L76 +++$+++ u21 +++$+++ m0 +++$+++ BIANCA +++$+++ you are beautiful.
+L77 +++$+++ u21 +++$+++ m0 +++$+++ BIANCA +++$+++ Oh, tks. Hope u feel good today.
+L78 +++$+++ u22 +++$+++ m0 +++$+++ BIANCA +++$+++ Oh shit. u are crazy.
+L79 +++$+++ u22 +++$+++ m0 +++$+++ BIANCA +++$+++ Sr, i don`t know what are u saying.
+L80 +++$+++ u23 +++$+++ m0 +++$+++ BIANCA +++$+++ where is hust?
+L81 +++$+++ u23 +++$+++ m0 +++$+++ BIANCA +++$+++ Sorry, i do not have any information.
+L82 +++$+++ u24 +++$+++ m0 +++$+++ BIANCA +++$+++ can i pay by card?
+L83 +++$+++ u24 +++$+++ m0 +++$+++ BIANCA +++$+++ Of course. Go a head for counter and take payment.
+L84 +++$+++ u25 +++$+++ m0 +++$+++ BIANCA +++$+++ I need to have payment.
+L85 +++$+++ u25 +++$+++ m0 +++$+++ BIANCA +++$+++ Oh, go a head to meet counter.
+L86 +++$+++ u26 +++$+++ m0 +++$+++ BIANCA +++$+++ What kinds of books do u have?
+L87 +++$+++ u26 +++$+++ m0 +++$+++ BIANCA +++$+++ A lot. U can go to those bookshelves to find what u want.
+L88 +++$+++ u27 +++$+++ m0 +++$+++ BIANCA +++$+++ List for me some kinds of books u have?
+L89 +++$+++ u27 +++$+++ m0 +++$+++ BIANCA +++$+++ example for game, activity, children, photography....and so on.
+L90 +++$+++ u28 +++$+++ m0 +++$+++ BIANCA +++$+++ Have sale in this time?
+L91 +++$+++ u28 +++$+++ m0 +++$+++ BIANCA +++$+++ Yep, u are lucky. My book store in tet`s sale.
+L92 +++$+++ u28 +++$+++ m0 +++$+++ BIANCA +++$+++ sale for how many percent?
+L93 +++$+++ u28 +++$+++ m0 +++$+++ BIANCA +++$+++ adaptive for each type of book. It is not the same.
+
