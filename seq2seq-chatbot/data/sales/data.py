@@ -1,4 +1,7 @@
-EN_WHITELIST = '0123456789abcdefghijklmnopqrstuvwxyz ' # space is included in whitelist
+#! /usr/bin/python
+# -*- coding: utf-8 -*-
+
+EN_WHITELIST = '0123456789abcdefghijklmnopqrstuvwxyzôâăơưê ' # space is included in whitelist
 EN_BLACKLIST = '!"#$%&\'()*+,-./:;<=>?@[\\]^_`{|}~\''
 
 limit = {
