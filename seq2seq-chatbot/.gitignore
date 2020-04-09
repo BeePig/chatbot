@@ -12,7 +12,7 @@ data/.DS_Store
 *.gz
 .spyproject/
 .vscode/*
-model.npz
+
 env/
 venv/
 .idea/
