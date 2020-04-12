@@ -1,0 +1,20 @@
+q: chào bạn 
+a: mình là bee mình giúp gì được cho bạn không
+q: mình muốn mua sách 
+a: tất cả sách ở đằng kia bạn nhé
+q: tác giả 
+a: bạn hỏi tác giả cuốn sách nào
+q: tác giả cuốn god gave là ai 
+a: tác giả của cuốn sách là
+q: Ai là  tác giả cuốn sách god gave 
+a: tác giả của cuốn sách là
+q: bao nhiêu tiền 
+a: giá cuốn sách nào cơ
+q: bao nhiêu tiền cuốn sách 
+a: giá cuốn sách nào cơ
+q: bao nhiêu tiền cuốn sách Perfectly 
+a: giá cuốn sách nào cơ
+q: bao nhiêu tiền cuốn perfectly logical 
+a: giá của sản phẩm là
+q: giá thành cao quá 
+a: giá của sản phẩm là

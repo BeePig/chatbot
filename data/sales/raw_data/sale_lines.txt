@@ -1,0 +1,359 @@
+**********************************************************Chao hoi******************************************************
+
+L1 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Xin chào
+L2 +++$+++ u0 +++$+++ m0 +++$+++ BIANCA +++$+++ Xin chào, mình có thể giúp gì được cho bạn
+L3 +++$+++ u1 +++$+++ m0 +++$+++ BIANCA +++$+++ Chào buổi sáng, mình đang cần tìm một cuốn sách
+L4 +++$+++ u1 +++$+++ m0 +++$+++ BIANCA +++$+++ Chào buổi sáng! Bạn cần tìm thể loại sách gì đấy
+L5 +++$+++ u2 +++$+++ m0 +++$+++ BIANCA +++$+++ Xin chào
+L6 +++$+++ u2 +++$+++ m0 +++$+++ BIANCA +++$+++ Xin chào, mình giúp gì được cho bạn nào?
+L7 +++$+++ u3 +++$+++ m0 +++$+++ BIANCA +++$+++ Chào bạn, rất vui được gặp bạn
+L8 +++$+++ u3 +++$+++ m0 +++$+++ BIANCA +++$+++ Vâng, Tiệm sách luôn chào đón bạn. Bạn cần gì nào?
+L209 +++$+++ u100 +++$+++ m0 +++$+++ BIANCA +++$+++ Chào
+L210 +++$+++ u100 +++$+++ m0 +++$+++ BIANCA +++$+++ Chào bạn, rất vui được gặp bạn
+
+*********************************************************Tạm biệt*******************************************************
+
+L9 +++$+++ u4 +++$+++ m0 +++$+++ BIANCA +++$+++ Tạm biệt.
+L10 +++$+++ u4 +++$+++ m0 +++$+++ BIANCA +++$+++ tạm biệt, hẹn gặp lại bạn lần sau.
+L11 +++$+++ u5 +++$+++ m0 +++$+++ BIANCA +++$+++ Cảm ơn, tạm biệt bạn.
+L12 +++$+++ u5 +++$+++ m0 +++$+++ BIANCA +++$+++ Bạn luôn được chào đón, chào tạm biệt bạn.
+L13 +++$+++ u6 +++$+++ m0 +++$+++ BIANCA +++$+++ cảm ơn nha, bạn tốt quá.
+L14 +++$+++ u6 +++$+++ m0 +++$+++ BIANCA +++$+++ Rất hân hạnh phục vụ bạn. Chúc bạn một ngày tốt lành.
+L15 +++$+++ u7 +++$+++ m0 +++$+++ BIANCA +++$+++ Cảm ơn nhiều. Mình ghé shop sau nha.
+L16 +++$+++ u7 +++$+++ m0 +++$+++ BIANCA +++$+++ Rất hân hanh. Hẹn gặp bạn lần sau.
+L17 +++$+++ u8 +++$+++ m0 +++$+++ BIANCA +++$+++ Tạm biệt.
+L18 +++$+++ u8 +++$+++ m0 +++$+++ BIANCA +++$+++ Tạm biệt. Lần tới đến shop nhé.
+L19 +++$+++ u9 +++$+++ m0 +++$+++ BIANCA +++$+++ Cảm ơn, tạm biệt bạn.
+L20 +++$+++ u9 +++$+++ m0 +++$+++ BIANCA +++$+++ Chào tạm biệt. Chúc bạn một ngày tốt lành.
+
+**************************************************Mua sach**************************************************************
+
+L21 +++$+++ u10 +++$+++ m0 +++$+++ BIANCA +++$+++ Mình muốn tìm một cuốn sách
+L22 +++$+++ u10 +++$+++ m0 +++$+++ BIANCA +++$+++ Vâng! Tất cả sách nằm ở đằng kia.
+L23 +++$+++ u10 +++$+++ m0 +++$+++ BIANCA +++$+++ uhm, Mình không tìm thấy, bạn giúp mình được không?
+L24 +++$+++ u10 +++$+++ m0 +++$+++ BIANCA +++$+++ Vâng, được chứ. Loại sách mà bạn muốn là gì?
+L25 +++$+++ u10 +++$+++ m0 +++$+++ BIANCA +++$+++ Mình muốn tìm sách A
+L26 +++$+++ u10 +++$+++ m0 +++$+++ BIANCA +++$+++ Để mình kiểm tra hệ thống đã nhé.
+L27 +++$+++ u10 +++$+++ m0 +++$+++ BIANCA +++$+++ cuốn sách A còn không bạn ơi
+L28 +++$+++ u10 +++$+++ m0 +++$+++ BIANCA +++$+++ uhm, vẫn còn nha.
+L29 +++$+++ u11 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách
+L30 +++$+++ u11 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách nào bạn ơi?
+L261 +++$+++ u126 +++$+++ m0 +++$+++ BIANCA +++$+++ mình muốn mua sách
+L262 +++$+++ u126 +++$+++ m0 +++$+++ BIANCA +++$+++ mình giúp gì được cho bạn
+L263 +++$+++ u127 +++$+++ m0 +++$+++ BIANCA +++$+++ mình muốn mua sách
+L264 +++$+++ u127 +++$+++ m0 +++$+++ BIANCA +++$+++ tất cả sách ở đằng kia bạn nhé
+
+**************************************************Thanh toán************************************************************
+
+L31 +++$+++ u12 +++$+++ m0 +++$+++ BIANCA +++$+++ Mình trả tiền qua thẻ được không?
+L32 +++$+++ u12 +++$+++ m0 +++$+++ BIANCA +++$+++ Dĩ nhiên, đi thẳng đến quầy tính tiền và thanh toán nha.
+L33 +++$+++ u13 +++$+++ m0 +++$+++ BIANCA +++$+++ Mình muốn thanh toán.
+L34 +++$+++ u13 +++$+++ m0 +++$+++ BIANCA +++$+++ Cứ đi thẳng đến quầy thanh toán nhé.
+L35 +++$+++ u14 +++$+++ m0 +++$+++ BIANCA +++$+++ Tính tiền giúp mình với.
+L36 +++$+++ u14 +++$+++ m0 +++$+++ BIANCA +++$+++ Bạn đến quầy tính tiền để cô ấy giúp bạn nhé.
+L317 +++$+++ u153 +++$+++ m0 +++$+++ BIANCA +++$+++ mình muốn thanh toán
+L318 +++$+++ u153 +++$+++ m0 +++$+++ BIANCA +++$+++ cứ đi thẳng đến quầy thanh toán nhé
+L319 +++$+++ u154 +++$+++ m0 +++$+++ BIANCA +++$+++ thanh toán
+L320 +++$+++ u154 +++$+++ m0 +++$+++ BIANCA +++$+++ bạn cứ đi thẳng đến quầy tính tiền nhé.
+L321 +++$+++ u155 +++$+++ m0 +++$+++ BIANCA +++$+++ bạn thanh toán giúp mình với
+L322 +++$+++ u155 +++$+++ m0 +++$+++ BIANCA +++$+++ bạn đến quầy tính tiền để cô ấy giúp bạn nhé
+L323 +++$+++ u156 +++$+++ m0 +++$+++ BIANCA +++$+++ thanh toán giúp mình đi
+L324 +++$+++ u156 +++$+++ m0 +++$+++ BIANCA +++$+++ bạn đến quầY thanh toán để cô ấy giúp bạn nhé
+L325 +++$+++ u157 +++$+++ m0 +++$+++ BIANCA +++$+++ tính tiền
+L326 +++$+++ u157 +++$+++ m0 +++$+++ BIANCA +++$+++ cứ đi thẳng đến quầy thanh toán nhé
+L327 +++$+++ u158 +++$+++ m0 +++$+++ BIANCA +++$+++ bạn tính tiền giúp mình với
+L328 +++$+++ u158 +++$+++ m0 +++$+++ BIANCA +++$+++ bạn đến quầy tính tiền để cô ấy giúp bạn nhé
+L329 +++$+++ u159 +++$+++ m0 +++$+++ BIANCA +++$+++ mình muốn tính tiền
+L330 +++$+++ u159 +++$+++ m0 +++$+++ BIANCA +++$+++ cứ đi thẳng đến quầy thanh toán để cô ấy giúp bạn nhé
+
+***************************************************Hỏi giá**************************************************************
+
+L37 +++$+++ u15 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách Try Not to Laugh Challenge giá bao nhiêu
+L38 +++$+++ u15 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là
+L39 +++$+++ u16 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách God Gave Us Easter giá bao nhiêu
+L40 +++$+++ u16 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là
+L41 +++$+++ u17 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách Second Grade Big Fun Workbook giá bao nhiêu
+L42 +++$+++ u17 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là
+L43 +++$+++ u18 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách Adult Coloring Book giá bao nhiêu
+L44 +++$+++ u18 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là
+L45 +++$+++ u19 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách The Big Book of Silly Jokes for Kids giá bao nhiêu
+L46 +++$+++ u19 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là
+L47 +++$+++ u20 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách A Magical Sight Words and Phonics Activity Workbook giá bao nhiêu
+L48 +++$+++ u20 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là
+L49 +++$+++ u21 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách Perfectly Logical giá bao nhiêu
+L50 +++$+++ u21 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là
+L51 +++$+++ u22 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách Number Tracing Book giá bao nhiêu
+L52 +++$+++ u22 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là
+L53 +++$+++ u23 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách My Kindergarten Workbook giá bao nhiêu
+L54 +++$+++ u23 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là
+L55 +++$+++ u24 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách My First Learn to Write Workbook giá bao nhiêu
+L56 +++$+++ u24 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là
+L57 +++$+++ u25 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách A Novel Hardcover giá bao nhiêu
+L58 +++$+++ u25 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là
+L59 +++$+++ u26 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách School Zone giá bao nhiêu
+L60 +++$+++ u26 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là
+L61 +++$+++ u27 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách My First Toddler Coloring Book giá bao nhiêu
+L62 +++$+++ u27 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là
+L63 +++$+++ u28 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách First Grade Big Fun Workbook giá bao nhiêu
+L64 +++$+++ u28 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là
+L65 +++$+++ u29 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách Untamed Hardcover giá bao nhiêu
+L66 +++$+++ u29 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là
+L67 +++$+++ u30 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách Magnolia Table Vol 2 Hardcover giá bao nhiêu
+L68 +++$+++ u30 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là
+L69 +++$+++ u31 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách How to Draw 101 Animals Paperback giá bao nhiêu
+L70 +++$+++ u31 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là
+L71 +++$+++ u32 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách Calm Down giá bao nhiêu
+L72 +++$+++ u32 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là
+L73 +++$+++ u33 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách Scratch and Sparkle Unicorns Activity Book giá bao nhiêu
+L74 +++$+++ u33 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là
+L75 +++$+++ u34 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách Front Row at the Trump Show Hardcover giá bao nhiêu
+L76 +++$+++ u34 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là
+L77 +++$+++ u35 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách How to Catch a Mermaid Hardcover giá bao nhiêu
+L78 +++$+++ u35 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là
+L79 +++$+++ u36 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách 5000 Awesome Facts About Everything giá bao nhiêu
+L80 +++$+++ u36 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là
+L81 +++$+++ u37 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách Scissor Skills Preschool Workbook for Kids giá bao nhiêu
+L82 +++$+++ u37 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là
+L83 +++$+++ u38 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách How to Catch a Unicorn Hardcover giá bao nhiêu
+L84 +++$+++ u38 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là
+L85 +++$+++ u39 +++$+++ m0 +++$+++ BIANCA +++$+++ Cuốn sách  giá bao nhiêu
+L86 +++$+++ u39 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là 12000 vnd
+L87 +++$+++ u40 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá cuốn sách
+L88 +++$+++ u40 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá của sản phẩm là 12000 vnd
+L89 +++$+++ u41 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá cuốn sách
+L90 +++$+++ u41 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá cuốn sách nào cơ
+L91 +++$+++ u42 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá cuốn sách
+L92 +++$+++ u42 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá sách nào cơ
+L209 +++$+++ u100 +++$+++ m0 +++$+++ BIANCA +++$+++ Bao nhiêu tiền cuốn sách
+L210 +++$+++ u100 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá cuốn sách nào cơ
+L211 +++$+++ u101 +++$+++ m0 +++$+++ BIANCA +++$+++ Bao tiền một cuốn sách
+L212 +++$+++ u101 +++$+++ m0 +++$+++ BIANCA +++$+++ Giá cuốn sách nào cơ
+L213 +++$+++ u102 +++$+++ m0 +++$+++ BIANCA +++$+++ bao nhiêu tiền cuốn sách Try Not to Laugh Challenge
+L214 +++$+++ u102 +++$+++ m0 +++$+++ BIANCA +++$+++ giá của sản phẩm là
+L215 +++$+++ u103 +++$+++ m0 +++$+++ BIANCA +++$+++ bao nhiêu tiền cuốn sách God Gave Us Easter
+L216 +++$+++ u103 +++$+++ m0 +++$+++ BIANCA +++$+++ giá của sản phẩm là
+L217 +++$+++ u104 +++$+++ m0 +++$+++ BIANCA +++$+++ bao nhiêu tiền cuốn sách Second Grade Big Fun Workbook
+L218 +++$+++ u104 +++$+++ m0 +++$+++ BIANCA +++$+++ giá của sản phẩm là
+L219 +++$+++ u105 +++$+++ m0 +++$+++ BIANCA +++$+++ bao nhiêu tiền cuốn sách Adult Coloring Book
+L220 +++$+++ u105 +++$+++ m0 +++$+++ BIANCA +++$+++ giá của sản phẩm là
+L221 +++$+++ u106 +++$+++ m0 +++$+++ BIANCA +++$+++ bao nhiêu tiền cuốn sách The Big Book of Silly Jokes for Kids
+L222 +++$+++ u106 +++$+++ m0 +++$+++ BIANCA +++$+++ giá của sản phẩm là
+L223 +++$+++ u107 +++$+++ m0 +++$+++ BIANCA +++$+++ bao nhiêu tiền cuốn sách A Magical Sight Words and Phonics Activity Workbook
+L224 +++$+++ u107 +++$+++ m0 +++$+++ BIANCA +++$+++ giá của sản phẩm là
+L225 +++$+++ u108 +++$+++ m0 +++$+++ BIANCA +++$+++ bao nhiêu tiền cuốn sách Perfectly Logical
+L226 +++$+++ u108 +++$+++ m0 +++$+++ BIANCA +++$+++ giá của sản phẩm là
+L227 +++$+++ u109 +++$+++ m0 +++$+++ BIANCA +++$+++ bao nhiêu tiền cuốn sách Number Tracing Book
+L228 +++$+++ u109 +++$+++ m0 +++$+++ BIANCA +++$+++ giá của sản phẩm là
+L229 +++$+++ u110 +++$+++ m0 +++$+++ BIANCA +++$+++ bao nhiêu tiền cuốn sách My Kindergarten Workbook
+L230 +++$+++ u110 +++$+++ m0 +++$+++ BIANCA +++$+++ giá của sản phẩm là
+L231 +++$+++ u111 +++$+++ m0 +++$+++ BIANCA +++$+++ bao nhiêu tiền cuốn sách My First Learn to Write Workbook
+L232 +++$+++ u111 +++$+++ m0 +++$+++ BIANCA +++$+++ giá của sản phẩm là
+L233 +++$+++ u112 +++$+++ m0 +++$+++ BIANCA +++$+++ bao nhiêu tiền cuốn sách A Novel Hardcover
+L234 +++$+++ u112 +++$+++ m0 +++$+++ BIANCA +++$+++ giá của sản phẩm là
+L235 +++$+++ u113 +++$+++ m0 +++$+++ BIANCA +++$+++ bao nhiêu tiền cuốn sách School Zone
+L236 +++$+++ u113 +++$+++ m0 +++$+++ BIANCA +++$+++ giá của sản phẩm là
+L237 +++$+++ u114 +++$+++ m0 +++$+++ BIANCA +++$+++ bao nhiêu tiền cuốn sách My First Toddler Coloring Book
+L238 +++$+++ u114 +++$+++ m0 +++$+++ BIANCA +++$+++ giá của sản phẩm là
+L239 +++$+++ u115 +++$+++ m0 +++$+++ BIANCA +++$+++ bao nhiêu tiền cuốn sách First Grade Big Fun Workbook
+L240 +++$+++ u115 +++$+++ m0 +++$+++ BIANCA +++$+++ giá của sản phẩm là
+L241 +++$+++ u116 +++$+++ m0 +++$+++ BIANCA +++$+++ bao nhiêu tiền cuốn sách Untamed Hardcover
+L242 +++$+++ u116 +++$+++ m0 +++$+++ BIANCA +++$+++ giá của sản phẩm là
+L243 +++$+++ u117 +++$+++ m0 +++$+++ BIANCA +++$+++ bao nhiêu tiền cuốn sách Magnolia Table Vol 2 Hardcover
+L244 +++$+++ u117 +++$+++ m0 +++$+++ BIANCA +++$+++ giá của sản phẩm là
+L245 +++$+++ u118 +++$+++ m0 +++$+++ BIANCA +++$+++ bao nhiêu tiền cuốn sách How to Draw 101 Animals Paperback
+L246 +++$+++ u118 +++$+++ m0 +++$+++ BIANCA +++$+++ giá của sản phẩm là
+L247 +++$+++ u119 +++$+++ m0 +++$+++ BIANCA +++$+++ bao nhiêu tiền cuốn sách Calm Down
+L248 +++$+++ u119 +++$+++ m0 +++$+++ BIANCA +++$+++ giá của sản phẩm là
+L249 +++$+++ u120 +++$+++ m0 +++$+++ BIANCA +++$+++ bao nhiêu tiền cuốn sách Scratch and Sparkle Unicorns Activity Book
+L250 +++$+++ u120 +++$+++ m0 +++$+++ BIANCA +++$+++ giá của sản phẩm là
+L251 +++$+++ u121 +++$+++ m0 +++$+++ BIANCA +++$+++ bao nhiêu tiền cuốn sách Front Row at the Trump Show Hardcover
+L252 +++$+++ u121 +++$+++ m0 +++$+++ BIANCA +++$+++ giá của sản phẩm là
+L253 +++$+++ u122 +++$+++ m0 +++$+++ BIANCA +++$+++ bao nhiêu tiền cuốn sách How to Catch a Mermaid Hardcover
+L254 +++$+++ u122 +++$+++ m0 +++$+++ BIANCA +++$+++ giá của sản phẩm là
+L255 +++$+++ u123 +++$+++ m0 +++$+++ BIANCA +++$+++ bao nhiêu tiền cuốn sách 5000 Awesome Facts About Everything
+L256 +++$+++ u123 +++$+++ m0 +++$+++ BIANCA +++$+++ giá của sản phẩm là
+L257 +++$+++ u124 +++$+++ m0 +++$+++ BIANCA +++$+++ bao nhiêu tiền cuốn sách Scissor Skills Preschool Workbook for Kids
+L258 +++$+++ u124 +++$+++ m0 +++$+++ BIANCA +++$+++ giá của sản phẩm là
+L259 +++$+++ u125 +++$+++ m0 +++$+++ BIANCA +++$+++ bao nhiêu tiền cuốn sách How to Catch a Unicorn Hardcover
+L260 +++$+++ u125 +++$+++ m0 +++$+++ BIANCA +++$+++ giá của sản phẩm là
+
+*****************************************************Tác giả sách*******************************************************
+
+L93 +++$+++ u43 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả sách Try Not to Laugh Challenge là ai
+L94 +++$+++ u43 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả của cuốn sách là
+L95 +++$+++ u44 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả sách God Gave Us Easter là ai
+L96 +++$+++ u44 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả của cuốn sách là
+L97 +++$+++ u45 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả sách Second Grade Big Fun Workbook là ai
+L98 +++$+++ u45 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả của cuốn sách là
+L99 +++$+++ u46 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả sách Adult Coloring Book là ai
+L100 +++$+++ u46 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả của cuốn sách là
+L101 +++$+++ u47 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả sách The Big Book of Silly Jokes for Kids là ai
+L102 +++$+++ u47 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả của cuốn sách là
+L103 +++$+++ u48 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả sách A Magical Sight Words and Phonics Activity Workbook là ai
+L104 +++$+++ u48 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả của cuốn sách là
+L105 +++$+++ u49 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả sách Perfectly Logical là ai
+L106 +++$+++ u49 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả của cuốn sách là
+L107 +++$+++ u50 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả sách Number Tracing Book là ai
+L108 +++$+++ u50 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả của cuốn sách là
+L109 +++$+++ u51 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả sách My Kindergarten Workbook là ai
+L110 +++$+++ u51 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả của cuốn sách là
+L111 +++$+++ u52 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả sách My First Learn to Write Workbook là ai
+L112 +++$+++ u52 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả của cuốn sách là
+L113 +++$+++ u53 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả sách A Novel Hardcover là ai
+L114 +++$+++ u53 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả của cuốn sách là
+L115 +++$+++ u54 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả sách School Zone là ai
+L116 +++$+++ u54 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả của cuốn sách là
+L117 +++$+++ u55 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả sách My First Toddler Coloring Book là ai
+L118 +++$+++ u55 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả của cuốn sách là
+L119 +++$+++ u56 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả sách First Grade Big Fun Workbook là ai
+L120 +++$+++ u56 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả của cuốn sách là
+L121 +++$+++ u57 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả sách Untamed Hardcover là ai
+L122 +++$+++ u57 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả của cuốn sách là
+L123 +++$+++ u58 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả sách Magnolia Table Vol 2 Hardcover là ai
+L124 +++$+++ u58 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả của cuốn sách là
+L125 +++$+++ u59 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả sách How to Draw 101 Animals Paperback là ai
+L126 +++$+++ u59 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả của cuốn sách là
+L127 +++$+++ u60 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả sách Calm Down là ai
+L128 +++$+++ u60 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả của cuốn sách là
+L129 +++$+++ u61 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả sách Scratch and Sparkle Unicorns Activity Book là ai
+L130 +++$+++ u61 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả của cuốn sách là
+L131 +++$+++ u62 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả sách Front Row at the Trump Show Hardcover là ai
+L132 +++$+++ u62 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả của cuốn sách là
+L133 +++$+++ u63 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả sách How to Catch a Mermaid Hardcover là ai
+L134 +++$+++ u63 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả của cuốn sách là
+L135 +++$+++ u64 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả sách 5000 Awesome Facts About Everything là ai
+L136 +++$+++ u64 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả của cuốn sách là
+L137 +++$+++ u65 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả sách Scissor Skills Preschool Workbook for Kids là ai
+L138 +++$+++ u65 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả của cuốn sách là
+L139 +++$+++ u66 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả sách How to Catch a Unicorn Hardcover là ai
+L140 +++$+++ u66 +++$+++ m0 +++$+++ BIANCA +++$+++ Tác giả của cuốn sách là
+L265 +++$+++ u128 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả sách
+L266 +++$+++ u128 +++$+++ m0 +++$+++ BIANCA +++$+++ bạn hỏi tác giả cuốn sách nào
+L267 +++$+++ u129 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả
+L268 +++$+++ u129 +++$+++ m0 +++$+++ BIANCA +++$+++ bạn hỏi tác giả cuốn sách nào
+L269 +++$+++ u129 +++$+++ m0 +++$+++ BIANCA +++$+++ ai là tác giả cuốn Try Not to Laugh Challenge
+L270 +++$+++ u129 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả của cuốn sách là
+L271 +++$+++ u130 +++$+++ m0 +++$+++ BIANCA +++$+++ ai là tác giả cuốn God Gave Us Easter
+L272 +++$+++ u130 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả của cuốn sách là
+L273 +++$+++ u131 +++$+++ m0 +++$+++ BIANCA +++$+++ ai là tác giả cuốn Second Grade Big Fun Workbook
+L274 +++$+++ u131 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả của cuốn sách là
+L275 +++$+++ u132 +++$+++ m0 +++$+++ BIANCA +++$+++ ai là tác giả cuốn Adult Coloring Book
+L276 +++$+++ u132 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả của cuốn sách là
+L277 +++$+++ u133 +++$+++ m0 +++$+++ BIANCA +++$+++ ai là tác giả cuốn The Big Book of Silly Jokes for Kids
+L278 +++$+++ u133 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả của cuốn sách là
+L279 +++$+++ u134 +++$+++ m0 +++$+++ BIANCA +++$+++ ai là tác giả cuốn A Magical Sight Words and Phonics Activity Workbook
+L280 +++$+++ u134 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả của cuốn sách là
+L281 +++$+++ u135 +++$+++ m0 +++$+++ BIANCA +++$+++ ai là tác giả cuốn Perfectly Logical
+L282 +++$+++ u135 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả của cuốn sách là
+L283 +++$+++ u136 +++$+++ m0 +++$+++ BIANCA +++$+++ ai là tác giả cuốn Number Tracing Book
+L284 +++$+++ u136 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả của cuốn sách là
+L285 +++$+++ u137 +++$+++ m0 +++$+++ BIANCA +++$+++ ai là tác giả cuốn My Kindergarten Workbook
+L286 +++$+++ u137 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả của cuốn sách là
+L287 +++$+++ u138 +++$+++ m0 +++$+++ BIANCA +++$+++ ai là tác giả cuốn My First Learn to Write Workbook
+L288 +++$+++ u138 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả của cuốn sách là
+L289 +++$+++ u139 +++$+++ m0 +++$+++ BIANCA +++$+++ ai là tác giả cuốn A Novel Hardcover
+L290 +++$+++ u139 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả của cuốn sách là
+L291 +++$+++ u140 +++$+++ m0 +++$+++ BIANCA +++$+++ ai là tác giả cuốn School Zone
+L292 +++$+++ u140 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả của cuốn sách là
+L293 +++$+++ u141 +++$+++ m0 +++$+++ BIANCA +++$+++ ai là tác giả cuốn My First Toddler Coloring Book
+L294 +++$+++ u141 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả của cuốn sách là
+L295 +++$+++ u142 +++$+++ m0 +++$+++ BIANCA +++$+++ ai là tác giả cuốn First Grade Big Fun Workbook
+L296 +++$+++ u142 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả của cuốn sách là
+L297 +++$+++ u143 +++$+++ m0 +++$+++ BIANCA +++$+++ ai là tác giả cuốn Untamed Hardcover
+L298 +++$+++ u143 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả của cuốn sách là
+L299 +++$+++ u144 +++$+++ m0 +++$+++ BIANCA +++$+++ ai là tác giả cuốn Magnolia Table Vol 2 Hardcover
+L300 +++$+++ u144 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả của cuốn sách là
+L301 +++$+++ u145 +++$+++ m0 +++$+++ BIANCA +++$+++ ai là tác giả cuốn How to Draw 101 Animals Paperback
+L302 +++$+++ u145 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả của cuốn sách là
+L303 +++$+++ u146 +++$+++ m0 +++$+++ BIANCA +++$+++ ai là tác giả cuốn Calm Down
+L304 +++$+++ u146 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả của cuốn sách là
+L305 +++$+++ u147 +++$+++ m0 +++$+++ BIANCA +++$+++ ai là tác giả cuốn Scratch and Sparkle Unicorns Activity Book
+L306 +++$+++ u147 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả của cuốn sách là
+L307 +++$+++ u148 +++$+++ m0 +++$+++ BIANCA +++$+++ ai là tác giả cuốn Front Row at the Trump Show Hardcover
+L308 +++$+++ u148 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả của cuốn sách là
+L309 +++$+++ u149 +++$+++ m0 +++$+++ BIANCA +++$+++ ai là tác giả cuốn How to Catch a Mermaid Hardcover
+L310 +++$+++ u149 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả của cuốn sách là
+L311 +++$+++ u150 +++$+++ m0 +++$+++ BIANCA +++$+++ ai là tác giả cuốn 5000 Awesome Facts About Everything
+L312 +++$+++ u150 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả của cuốn sách là
+L313 +++$+++ u151 +++$+++ m0 +++$+++ BIANCA +++$+++ ai là tác giả cuốn Scissor Skills Preschool Workbook for Kids
+L314 +++$+++ u151 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả của cuốn sách là
+L315 +++$+++ u152 +++$+++ m0 +++$+++ BIANCA +++$+++ ai là tác giả cuốn How to Catch a Unicorn Hardcover
+L316 +++$+++ u152 +++$+++ m0 +++$+++ BIANCA +++$+++ tác giả của cuốn sách là
+
+**************************************************Thể loại sách*********************************************************
+
+L141 +++$+++ u67 +++$+++ m0 +++$+++ BIANCA +++$+++ Bạn có các loại sách gì đấy?
+L142 +++$+++ u67 +++$+++ m0 +++$+++ BIANCA +++$+++ Nhiều lắm. Bạn có thể đến các kệ sách đằng kia để tìm.
+L143 +++$+++ u67 +++$+++ m0 +++$+++ BIANCA +++$+++ Kể cho mình tên các loại sách được không?
+L144 +++$+++ u67 +++$+++ m0 +++$+++ BIANCA +++$+++ Các loại sách như trò chơi, hành động, trẻ con, nhiếp ảnh....và nhiều thể loại nữa.
+L145 +++$+++ u68 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại sách Try Not to Laugh Challenge là gì
+L146 +++$+++ u68 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại của cuốn sách là
+L147 +++$+++ u69 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại sách God Gave Us Easter là gì
+L148 +++$+++ u69 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại của cuốn sách là
+L149 +++$+++ u70 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại sách Second Grade Big Fun Workbook là gì
+L150 +++$+++ u70 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại của cuốn sách là
+L151 +++$+++ u71 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại sách Adult Coloring Book là gì
+L152 +++$+++ u71 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại của cuốn sách là
+L153 +++$+++ u72 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại sách The Big Book of Silly Jokes for Kids là gì
+L154 +++$+++ u72 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại của cuốn sách là
+L155 +++$+++ u73 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại sách A Magical Sight Words and Phonics Activity Workbook là gì
+L156 +++$+++ u73 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại của cuốn sách là
+L157 +++$+++ u74 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại sách Perfectly Logical là gì
+L158 +++$+++ u74 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại của cuốn sách là
+L159 +++$+++ u75 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại sách Number Tracing Book là gì
+L160 +++$+++ u75 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại của cuốn sách là
+L161 +++$+++ u76 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại sách My Kindergarten Workbook là gì
+L162 +++$+++ u76 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại của cuốn sách là
+L163 +++$+++ u77 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại sách My First Learn to Write Workbook là gì
+L164 +++$+++ u77 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại của cuốn sách là
+L165 +++$+++ u78 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại sách A Novel Hardcover là gì
+L166 +++$+++ u78 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại của cuốn sách là
+L167 +++$+++ u79 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại sách School Zone là gì
+L168 +++$+++ u79 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại của cuốn sách là
+L169 +++$+++ u80 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại sách My First Toddler Coloring Book là gì
+L170 +++$+++ u80 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại của cuốn sách là
+L171 +++$+++ u81 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại sách First Grade Big Fun Workbook là gì
+L172 +++$+++ u81 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại của cuốn sách là
+L173 +++$+++ u82 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại sách Untamed Hardcover là gì
+L174 +++$+++ u82 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại của cuốn sách là
+L175 +++$+++ u83 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại sách Magnolia Table Vol 2 Hardcover là gì
+L176 +++$+++ u83 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại của cuốn sách là
+L177 +++$+++ u84 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại sách How to Draw 101 Animals Paperback là gì
+L178 +++$+++ u84 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại của cuốn sách là
+L179 +++$+++ u85 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại sách Calm Down là gì
+L180 +++$+++ u85 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại của cuốn sách là
+L181 +++$+++ u86 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại sách Scratch and Sparkle Unicorns Activity Book là gì
+L182 +++$+++ u86 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại của cuốn sách là
+L183 +++$+++ u87 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại sách Front Row at the Trump Show Hardcover là gì
+L184 +++$+++ u87 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại của cuốn sách là
+L185 +++$+++ u88 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại sách How to Catch a Mermaid Hardcover là gì
+L186 +++$+++ u88 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại của cuốn sách là
+L187 +++$+++ u89 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại sách 5000 Awesome Facts About Everything là gì
+L188 +++$+++ u89 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại của cuốn sách là
+L189 +++$+++ u90 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại sách Scissor Skills Preschool Workbook for Kids là gì
+L190 +++$+++ u90 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại của cuốn sách là
+L191 +++$+++ u91 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại sách How to Catch a Unicorn Hardcover là gì
+L192 +++$+++ u91 +++$+++ m0 +++$+++ BIANCA +++$+++ Thể loại của cuốn sách là
+
+**************************************************Giao lưu chat bot*****************************************************
+
+L193 +++$+++ u92 +++$+++ m0 +++$+++ BIANCA +++$+++ Xin chào.
+L194 +++$+++ u92 +++$+++ m0 +++$+++ BIANCA +++$+++ Xin chào, mình là Bee. Rất vui được gặp bạn.
+L195 +++$+++ u93 +++$+++ m0 +++$+++ BIANCA +++$+++ Chào bạn. Bạn tên gì vậy?
+L196 +++$+++ u93 +++$+++ m0 +++$+++ BIANCA +++$+++ Mình là Bee. Chào mừng bạn đến với tiệm sách của mình.
+L197 +++$+++ u94 +++$+++ m0 +++$+++ BIANCA +++$+++ Chào bạn, Bạn là Bee?
+L198 +++$+++ u94 +++$+++ m0 +++$+++ BIANCA +++$+++ Mình là Bee. Mình giúp gì được cho bạn không?
+L199 +++$+++ u95 +++$+++ m0 +++$+++ BIANCA +++$+++ Bạn xinh thế.
+L200 +++$+++ u95 +++$+++ m0 +++$+++ BIANCA +++$+++ Oh, Cảm ơn. Chúc bạn một ngày tốt lành.
+L201 +++$+++ u96 +++$+++ m0 +++$+++ BIANCA +++$+++ Bạn điên rồi.
+L202 +++$+++ u96 +++$+++ m0 +++$+++ BIANCA +++$+++ Xin lỗi, mình không hiểu bạn nói gì.
+L203 +++$+++ u97 +++$+++ m0 +++$+++ BIANCA +++$+++ hust nằm ở đâu?
+L204 +++$+++ u97 +++$+++ m0 +++$+++ BIANCA +++$+++ Xin lỗi, mình không có thông tin.
+L205 +++$+++ u98 +++$+++ m0 +++$+++ BIANCA +++$+++ Cửa hàng bạn đang có chương trình giảm giá hả?
+L206 +++$+++ u98 +++$+++ m0 +++$+++ BIANCA +++$+++ Yep, Bạn may mắn đấy. Cửa hàng đang giảm giá dịp Tết
+L207 +++$+++ u99 +++$+++ m0 +++$+++ BIANCA +++$+++ cửa hàng Giảm giá bao nhiêu phần trăm?
+L208 +++$+++ u99 +++$+++ m0 +++$+++ BIANCA +++$+++ Giảm giá tùy từng loại sách, giảm giá không giống nhau.
+
+****************************************L330, u159**********************************************************************
+
+
