@@ -1,20 +1,38 @@
 q: chào bạn 
-a: mình là bee mình giúp gì được cho bạn không
-q: mình muốn mua sách 
-a: tất cả sách ở đằng kia bạn nhé
-q: tác giả 
-a: bạn hỏi tác giả cuốn sách nào
-q: tác giả cuốn god gave là ai 
-a: tác giả của cuốn sách là
-q: Ai là  tác giả cuốn sách god gave 
-a: tác giả của cuốn sách là
-q: bao nhiêu tiền 
-a: giá cuốn sách nào cơ
-q: bao nhiêu tiền cuốn sách 
-a: giá cuốn sách nào cơ
-q: bao nhiêu tiền cuốn sách Perfectly 
-a: giá cuốn sách nào cơ
-q: bao nhiêu tiền cuốn perfectly logical 
-a: giá của sản phẩm là
-q: giá thành cao quá 
-a: giá của sản phẩm là
+a: vâng luôn được chào đón chào tạm biệt bạn
+q: mình muốn tìm tác phẩm của jessica morgan
+a: những tác phẩm của michelle b r là
+q: 
+a: loại của cuốn sách là
+q: mình muốn tìm sách thuộc thể loại thiếu nhi 
+a: thể loại này có các tác phẩm như
+q: msách của jessica 
+a: những tác phẩm của karolina p là
+q: tạm biệt 
+a: tạm biệt lần tới đến shop nhé
+q: mình muốn tìm sách của tanya lor 
+a: những tác phẩm của loyd bron là
+q: mình muốn tìm sách của mattie 
+a: những tác phẩm của mattie bartlett là
+q: mình muốn thanh toán 
+a: dĩ nhiên đi thẳng đến quầy tính tiền và thanh toán nha
+q: bên bạn có thanh toán tiền mặt không 
+a: dĩ nhiên đi thẳng đến quầy tính tiền và thanh toán nha
+q: thanh toán 
+a: xin chào mình có thể giúp gì được cho bạn
+q: mìmình muốn thanh toán 
+a: dĩ nhiên đi thẳng đến quầy tính tiền và thanh toán nha
+q: bên bạn có hình thức quẹt thẻ không 
+a: dĩ nhiên đi thẳng đến quầy tính tiền và thanh toán nha
+q: mình trả tiền qua thẻ được không 
+a: dĩ nhiên đi thẳng đến quầy tính tiền và thanh toán nha
+q: tính tiền giúp mình với 
+a: bạn đến quầy tính tiền để cô ấy giúp bạn nhé
+q: e
+a: loại của cuốn sách là
+q: 
+a: loại của cuốn sách là
+q: 
+a: loại của cuốn sách là
+q: 
+a: loại của cuốn sách là
