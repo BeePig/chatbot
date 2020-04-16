@@ -1,38 +1,24 @@
-q: chào bạn 
-a: vâng luôn được chào đón chào tạm biệt bạn
-q: mình muốn tìm tác phẩm của jessica morgan
-a: những tác phẩm của michelle b r là
-q: 
+q: Hi
 a: loại của cuốn sách là
-q: mình muốn tìm sách thuộc thể loại thiếu nhi 
-a: thể loại này có các tác phẩm như
-q: msách của jessica 
-a: những tác phẩm của karolina p là
-q: tạm biệt 
-a: tạm biệt lần tới đến shop nhé
-q: mình muốn tìm sách của tanya lor 
-a: những tác phẩm của loyd bron là
-q: mình muốn tìm sách của mattie 
-a: những tác phẩm của mattie bartlett là
-q: mình muốn thanh toán 
-a: dĩ nhiên đi thẳng đến quầy tính tiền và thanh toán nha
-q: bên bạn có thanh toán tiền mặt không 
-a: dĩ nhiên đi thẳng đến quầy tính tiền và thanh toán nha
-q: thanh toán 
-a: xin chào mình có thể giúp gì được cho bạn
-q: mìmình muốn thanh toán 
-a: dĩ nhiên đi thẳng đến quầy tính tiền và thanh toán nha
-q: bên bạn có hình thức quẹt thẻ không 
-a: dĩ nhiên đi thẳng đến quầy tính tiền và thanh toán nha
-q: mình trả tiền qua thẻ được không 
-a: dĩ nhiên đi thẳng đến quầy tính tiền và thanh toán nha
-q: tính tiền giúp mình với 
-a: bạn đến quầy tính tiền để cô ấy giúp bạn nhé
-q: e
-a: loại của cuốn sách là
-q: 
-a: loại của cuốn sách là
-q: 
-a: loại của cuốn sách là
-q: 
-a: loại của cuốn sách là
+q: bao nhiêu tiền cuốn sách God Gave?
+a: giá của sản phẩm là
+q: /usr/bin/python3 /mnt/hgfs/python_project/chatbot/seq2seq.py
+a: những tác phẩm của tloyd bron là
+
+
+bao nhiêu tiền cuốn sách God Gave?
+giá tiền cuốn sách God Gave?
+
+"bao nhiêu tiền cuốn sách God Gave"
+“thể loại cuốn sách God Gave là?”
+“tác giả cuốn sách God Gave là?”
+“Các tác phẩm của nhà văn Brown?”
+“Các sách thể loại fiction?”
+
+
+bao nhiêu tiền cuốn sách God Gave?
+giá tiền cuốn sách God Gave?
+bao nhiêu tiền cuốn sách God Gave
+Các sách thể loại fiction?
+Floyd
+Các tác phẩm của nhà văn Brown?
