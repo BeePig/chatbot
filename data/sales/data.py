@@ -14,7 +14,7 @@ limit = {
 
 UNK = 'unk'
 # VOCAB_SIZE = 8000
-VOCAB_SIZE = 209
+VOCAB_SIZE = 302
 
 import random
 
@@ -211,13 +211,14 @@ def load_data(PATH=''):
     return tuple( (trainX, trainY), (testX,testY), (validX,validY) )
 
 '''
-def split_dataset(x, y, ratio = [1, 0.15, 0.15] ):
+def split_dataset(x, y, ratio = [0.93, 0.07, 0.07] ):
     # number of examples
     data_len = len(x)
     lens = [ int(data_len*item) for item in ratio ]
 
     trainX, trainY = x[:lens[0]], y[:lens[0]]
-    testX, testY = x[lens[0]:lens[0]+lens[1]], y[lens[0]:lens[0]+lens[1]]
+    # testX, testY = x[lens[0]:lens[0]+lens[1]], y[lens[0]:lens[0]+lens[1]]
+    testX, testY = x[lens[0]:lens[0] + lens[1]], y[lens[0]:lens[0] + lens[1]]
     validX, validY = x[-lens[-1]:], y[-lens[-1]:]
 
     return (trainX,trainY), (testX,testY), (validX,validY)
