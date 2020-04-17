@@ -12,7 +12,15 @@ def getDataFromCSV(filename="data.csv"):
             for row in csv.DictReader(f, skipinitialspace=True)] 
     return a
 listbook = getDataFromCSV()
+threshold_n = 4
 
+categories = ['Activities', 'Animals', 'Arts', 'Bibles', 'Books',
+ 'Children', 'Christian', 'Cookbooks', 'Crafts', 'Criticism',
+ 'Design', 'Education', 'Facts', 'Fiction', 'Food', 'Games',
+ 'Gardening', 'Genre', 'Government', 'Growing Up', 'History',
+ 'Hobbies', 'Home', 'International', 'Landscape', 'Life',
+ 'Literature', 'Living', 'Music', 'Photography', 'Politics',
+ 'Reference', 'Regional', 'Sciences', 'Social', 'Wine', 'Cookbooks, Food & Wine']
 def getBookFromName(name):
     list_ans = []
     list_book_return = []
@@ -129,9 +137,18 @@ def getFromAuthor(user_input):
 def getListCategory():
     category = []
     for book in listbook:
-        temp = book['product_category'].replace(">", "").replace("&","").replace("'s","").replace(",","")
-        category+=temp.split()
+        # temp = book['product_category'].replace(">", "").replace("&","").replace("'s","").replace(",","")
+        cate1 = book['product_category'].split(">")
+        cate2 = []
+        for _ in cate1:
+            cate2 += _.split("&")
+        # cate2 = [_.split("&") for _ in cate1]
+        cate3 = [_.rstrip().lstrip() for _ in cate2]
+        category+=cate3
+        # break
     return set(category)
+categories = (getListCategory())
+
 
 def outputProcess(listbook):
     try:
@@ -148,13 +165,7 @@ def outputProcess(listbook):
         return None
 
 
-categories = ['Activities', 'Animals', 'Arts', 'Bibles', 'Books',
- 'Children', 'Christian', 'Cookbooks', 'Crafts', 'Criticism',
- 'Design', 'Education', 'Facts', 'Fiction', 'Food', 'Games',
- 'Gardening', 'Genre', 'Government', 'Growing Up', 'History',
- 'Hobbies', 'Home', 'International', 'Landscape', 'Life',
- 'Literature', 'Living', 'Music', 'Photography', 'Politics',
- 'Reference', 'Regional', 'Sciences', 'Social', 'Wine', 'Cookbooks, Food & Wine']
+
 def getFromCategory(user_input):
     list_categories_in_input = [i for i in categories if i.lower() in user_input.lower()]
     if len(list_categories_in_input) == 0:
@@ -172,10 +183,10 @@ def getFromName(user_input):
         return None
     else:
         return (getBookFromName(" ".join(list_names_in_input)))
-threshold_n = 4
+
 
 def handle(user_input, seq_answer):
-    print(">>>", seq_answer)
+    # print(">>>", seq_answer)
     if "thể loại" in user_input:
         list_book = getFromCategory(user_input)
         if len(list_book) > 0:
@@ -198,7 +209,7 @@ def handle(user_input, seq_answer):
 
 
     elif len(user_input.split()) <= threshold_n:
-        print(">>>case", "threshold_n")
+        # print(">>>case", "threshold_n")
         list_book = getBookFromName(user_input)
         if len(list_book) > 0:
             return list_book, "Có phải bạn muốn tìm sách tên:"
