@@ -1,0 +1,238 @@
+################################
+User: xin chào 
+Bee:  xin chào mình có thể giúp gì được cho bạn
+################################
+User: mình muốn mua một cuốn sách
+Bee:  vâng tất cả sách nằm ở đằng kia
+################################
+User: mình muốn mua sách
+Bee:  Bạn muốn tìm theo tác giả nào vậy?
+################################
+User: mình muốn tìm sách của floyd Brown 
+Bee:  Các tác phẩm của nhà văn là:
+        Tên sách: Second Grade Big Fun Workbook
+        Giá: 9.69 USD
+        Tác giả:Floyd Brown
+        Thể loại: Sách > Sách thiếu nhi > Trưởng thành & Lối sống
+________________________________
+        Tên sách: The Big Book of Silly Jokes for Kids
+        Giá: 5.99 USD
+        Tác giả:Floyd Brown
+        Thể loại: Sách > Sách thiếu nhi > Giáo dục & Sách tham khảo
+________________________________
+        Tên sách: How to Catch a Mermaid Hardcover
+        Giá: 5.99 USD
+        Tác giả:Floyd Brown
+        Thể loại: Sách > Sách thiếu nhi > Tiểu thuyết & Văn học
+________________________________
+        Tên sách: Scratch and Sparkle Unicorns Activity Book
+        Giá: 3.23 USD
+        Tác giả:Floyd Brown
+        Thể loại: Sách > Sách thiếu nhi > Nghệ thuật &  Âm nhạc & Nhiếp ảnh
+________________________________
+################################
+User: các tác phẩm của brown
+Bee:  xin lỗi mình không có thông tin
+Có phải bạn muốn tìm:
+        Tên sách: Second Grade Big Fun Workbook
+        Giá: 9.69 USD
+        Tác giả:Floyd Brown
+        Thể loại: Sách > Sách thiếu nhi > Trưởng thành & Lối sống
+________________________________
+        Tên sách: The Big Book of Silly Jokes for Kids
+        Giá: 5.99 USD
+        Tác giả:Floyd Brown
+        Thể loại: Sách > Sách thiếu nhi > Giáo dục & Sách tham khảo
+________________________________
+        Tên sách: How to Catch a Mermaid Hardcover
+        Giá: 5.99 USD
+        Tác giả:Floyd Brown
+        Thể loại: Sách > Sách thiếu nhi > Tiểu thuyết & Văn học
+________________________________
+        Tên sách: Scratch and Sparkle Unicorns Activity Book
+        Giá: 3.23 USD
+        Tác giả:Floyd Brown
+        Thể loại: Sách > Sách thiếu nhi > Nghệ thuật &  Âm nhạc & Nhiếp ảnh
+________________________________
+################################
+User: mình muốn tìm sách của Brown 
+Bee:  Các tác phẩm của nhà văn là:
+        Tên sách: Second Grade Big Fun Workbook
+        Giá: 9.69 USD
+        Tác giả:Floyd Brown
+        Thể loại: Sách > Sách thiếu nhi > Trưởng thành & Lối sống
+________________________________
+        Tên sách: The Big Book of Silly Jokes for Kids
+        Giá: 5.99 USD
+        Tác giả:Floyd Brown
+        Thể loại: Sách > Sách thiếu nhi > Giáo dục & Sách tham khảo
+________________________________
+        Tên sách: How to Catch a Mermaid Hardcover
+        Giá: 5.99 USD
+        Tác giả:Floyd Brown
+        Thể loại: Sách > Sách thiếu nhi > Tiểu thuyết & Văn học
+________________________________
+        Tên sách: Scratch and Sparkle Unicorns Activity Book
+        Giá: 3.23 USD
+        Tác giả:Floyd Brown
+        Thể loại: Sách > Sách thiếu nhi > Nghệ thuật &  Âm nhạc & Nhiếp ảnh
+________________________________
+################################
+User: mình muốn tìm sách thuộc thể loại thiếu nhi 
+Bee:  Các sách thể loại này là:
+        Tên sách: Try Not to Laugh Challenge
+        Giá: 7.99 USD
+        Tác giả:Mattie Bartlett
+        Thể loại: Sách > Thủ công & Nhà cửa > Làm vườn & Nội thất 
+________________________________
+        Tên sách: Scratch and Sparkle Unicorns Activity Book
+        Giá: 3.23 USD
+        Tác giả:Floyd Brown
+        Thể loại: Sách > Sách thiếu nhi > Nghệ thuật &  Âm nhạc & Nhiếp ảnh
+________________________________
+        Tên sách: A Novel Hardcover
+        Giá: 10.98 USD
+        Tác giả:Michelle B. R.
+        Thể loại: Sách > Tiểu thuyết & Văn học > Viễn tưởng
+________________________________
+        Tên sách: My First Learn to Write Workbook
+        Giá: 5.65 USD
+        Tác giả:Karolina P
+        Thể loại: Sách > Sách thiếu nhi > Giáo dục & Sách tham khảo
+________________________________
+        Tên sách: God Gave Us Easter
+        Giá: 6.82 USD
+        Tác giả:Kadeen H.
+        Thể loại: Sách > Sách thiếu nhi > Tiểu thuyết & Văn học
+________________________________
+        Tên sách: Scissor Skills Preschool Workbook for Kids
+        Giá: 1.99 USD
+        Tác giả:Tanya Lorraine
+        Thể loại: Sách > Sách thiếu nhi > Thủ công &  Trò chơi 
+________________________________
+        Tên sách: Front Row at the Trump Show Hardcover
+        Giá: 16.94 USD
+        Tác giả:Tanya Lorraine
+        Thể loại: Sách > Chính trị &  Khoa học &  Xã hội   > Chính trị  & Chính phủ
+________________________________
+        Tên sách: A Magical Sight Words and Phonics Activity Workbook
+        Giá: 6.99 USD
+        Tác giả:Jessica Morgan
+        Thể loại: Sách > Sách thiếu nhi > Tiểu thuyết & Văn học
+________________________________
+        Tên sách: School Zone
+        Giá: 9.97 USD
+        Tác giả:https://www.amazon.com/School-Zone-Preschool-Pre-Writing-Pre-Reading/dp/0887431453/ref=zg_bs_Sách_16/147-9572115-3188209?_encoding=UTF8&psc=1&refRID=45P9F6MKNPCPTQK243YR
+        Thể loại: Sách > Sách thiếu nhi > Trưởng thành
+________________________________
+        Tên sách: Calm Down
+        Giá: 2.25 USD
+        Tác giả:Mattie Bartlett
+        Thể loại: Sách > Thủ công, Nhà cửa > Thủ công & Trò chơi 
+________________________________
+        Tên sách: Adult Coloring Book 
+        Giá: 6.4 USD
+        Tác giả:Karolina P
+        Thể loại: Sách > Nghệ thuật &  Nhiếp ảnh > Lịch sử & Phê bình văn học
+________________________________
+        Tên sách: How to Draw 101 Animals Paperback
+        Giá: 4.99 USD
+        Tác giả:Jessica Morgan
+        Thể loại: Sách > Sách thiếu nhi > Nghệ thuật &  Âm nhạc & Nhiếp ảnh
+________________________________
+        Tên sách: My First Toddler Coloring Book
+        Giá: 4.37 USD
+        Tác giả:Michelle B. R.
+        Thể loại: Sách > Sách thiếu nhi > Thủ công &  Trò chơi 
+________________________________
+        Tên sách: 5000 Awesome Facts About Everything
+        Giá: 11.98 USD
+        Tác giả:Kadeen H.
+        Thể loại: Sách > Sách thiếu nhi > Giáo dục & Sách tham khảo
+________________________________
+        Tên sách: How to Catch a Unicorn Hardcover
+        Giá: 5.49 USD
+        Tác giả:Tanya Lorraine
+        Thể loại: Sách > Sách thiếu nhi > Động vật
+________________________________
+        Tên sách: Magnolia Table Vol 2 Hardcover
+        Giá: 21 USD
+        Tác giả:Michelle B. R.
+        Thể loại: Sách > Ẩm thực > Trong nước & Quốc tế 
+________________________________
+        Tên sách: Number Tracing Book
+        Giá: 2.79 USD
+        Tác giả:Jessica Morgan
+        Thể loại: Sách > Sách thiếu nhi > Giáo dục & Sách tham khảo
+________________________________
+        Tên sách: First Grade Big Fun Workbook
+        Giá: 9.38 USD
+        Tác giả:https://www.amazon.com/First-Grade-Activity-HighlightsTM-WorkSách/dp/1629798649/ref=zg_bs_Sách_41/147-9572115-3188209?_encoding=UTF8&psc=1&refRID=45P9F6MKNPCPTQK243YR
+        Thể loại: Sách > Sách thiếu nhi > Trưởng thành
+________________________________
+        Tên sách: Untamed Hardcover
+        Giá: 16.8 USD
+        Tác giả:Mattie Bartlett
+        Thể loại: Sách > Đạo thiên chúa & Kinh thánh > Đời sống con chiên
+________________________________
+        Tên sách: Second Grade Big Fun Workbook
+        Giá: 9.69 USD
+        Tác giả:Floyd Brown
+        Thể loại: Sách > Sách thiếu nhi > Trưởng thành & Lối sống
+________________________________
+        Tên sách: How to Catch a Mermaid Hardcover
+        Giá: 5.99 USD
+        Tác giả:Floyd Brown
+        Thể loại: Sách > Sách thiếu nhi > Tiểu thuyết & Văn học
+________________________________
+        Tên sách: The Big Book of Silly Jokes for Kids
+        Giá: 5.99 USD
+        Tác giả:Floyd Brown
+        Thể loại: Sách > Sách thiếu nhi > Giáo dục & Sách tham khảo
+________________________________
+        Tên sách: My Kindergarten Workbook
+        Giá: 7.93 USD
+        Tác giả:Jessica Morgan
+        Thể loại: Sách > Sách thiếu nhi > Trưởng thành & Lối sống
+________________________________
+        Tên sách: Perfectly Logical
+        Giá: 8.13 USD
+        Tác giả:Karolina P
+        Thể loại: Sách > Sách thiếu nhi > Thủ công &  Trò chơi 
+________________________________
+################################
+User: cuốn god gave us giá bao nhiêu tiền 
+Bee:  Giá của sản phẩm là
+        Tên sách: God Gave Us Easter
+        Giá: 6.82 USD
+        Tác giả:Kadeen H.
+        Thể loại: Sách > Sách thiếu nhi > Tiểu thuyết & Văn học
+________________________________
+################################
+User: bao nhiêu tiền cuốn god gave us
+Bee:  Bạn muốn tìm theo tác giả nào vậy?
+Có phải bạn muốn tìm:
+        Tên sách: God Gave Us Easter
+        Giá: 6.82 USD
+        Tác giả:Kadeen H.
+        Thể loại: Sách > Sách thiếu nhi > Tiểu thuyết & Văn học
+________________________________
+################################
+User: cuốn god gave us giá bao nhiêu
+Bee:  Giá của sản phẩm là
+        Tên sách: God Gave Us Easter
+        Giá: 6.82 USD
+        Tác giả:Kadeen H.
+        Thể loại: Sách > Sách thiếu nhi > Tiểu thuyết & Văn học
+________________________________
+################################
+User: tác giả của cuốn god gave us là ai
+Bee:  tác giả của cuốn sách là
+Có phải bạn muốn tìm:
+        Tên sách: God Gave Us Easter
+        Giá: 6.82 USD
+        Tác giả:Kadeen H.
+        Thể loại: Sách > Sách thiếu nhi > Tiểu thuyết & Văn học
+________________________________
+################################
+User: 
