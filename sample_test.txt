@@ -1,0 +1,61 @@
+
+
+*******************************************************************chào hỏi********************************************************************
+xin chào 
+>> mình có thể giúp gì được cho bạn 
+
+chào bạn 
+>> vâng luôn được chào đón tạm biệt bạn               x
+
+*****************************************************************hỏi mua sách*******************************************************************
+mình muốn mua một cuốn sách 
+>> tất cả sách nằm ở đằng kia 
+
+mình muốn mua sách 
+>> những tác phẩm của loyd bron
+>> bạn muốn tìm sách của tác giả nào 
+
+******************************************************************hỏi các sách của tác giả******************************************************
+mình muốn tìm sách của floyd Brown 
+>> những tác phẩm của loyd brown 
+>> bạn muốn tìm theo tác giả nào vậy                  x
+
+các tác phẩm của brown 
+>> những tác phẩm của loy brown 
+>> bạn muốn tìm theo tác giả nào vậy                  x 
+
+mình muốn tìm sách của Brown 
+>> những tác phẩm của loy brown 
+>> list ds đúng 
+
+*****************************************************************các sách thuộc thể loại**********************************************
+mình muốn tìm sách thuộc thể loại thiếu nhi 
+>> thể loại này có các tác phẩm như 
+
+******************************************************************hỏi giá sp**********************************************************
+cuốn god gave us giá bao nhiêu tiền 
+>> giá của sản phẩm là 
+>> giá sách đúng 
+
+bao nhiêu tiền cuốn god gave us
+>> những tác phẩm của mattir ...
+>> bạn muốn tìm tác giá nào , có phải sách -> kq đúng 
+
+cuốn god gave us giá bao nhiêu 
+>> giá của sản phẩm là 
+>> kq đúng 
+
+*******************************************************************hỏi tác giả của sản phẩm********************************************
+
+tác giả của cuốn god gave us là ai 
+>> tác giả của cuốn sách là 
+>> tác giả của cuốn sách là ...kq đúng 
+
+tác giả của cuốn sách god gave us là ai 
+>> tác giả của cuốn sách là 
+>> tác giả của cuốn sách là .... kq đúng 
+
+ai là tác giả cuốn god gave us 
+>> những tác phẩm của mattine là                         x
+>> bạn muốn tìm theo tác giả nào vậy .....kq cuốn sách 
+
